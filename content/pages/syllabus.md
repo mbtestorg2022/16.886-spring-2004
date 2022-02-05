@@ -58,11 +58,93 @@ Course faculty do not have regularly scheduled office hours and are available as
 Deliverables and Grading
 ------------------------
 
-|  DELIVERABLES | WEIGHTS | INDIVIDUAL OR TEAM GRADES |
-| --- | --- | --- |
-| Individual Oral Presentation | 15% | Individual |
-| System Concept Review | 15% | Team |
-| Preliminary System Design | 15% | Team |
-| Final Oral Presentation | 20% | Team |
-| Final Written Report  | 25% | Team |
-| End of Course Interview | 10% | Individual
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ DELIVERABLES
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+{{< thopen >}}
+INDIVIDUAL OR TEAM GRADES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual Oral Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+Individual
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+System Concept Review
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+Team
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Preliminary System Design
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+Team
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Oral Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+Team
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Written Report 
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+{{< tdopen >}}
+Team
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+End of Course Interview
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+Individual
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
