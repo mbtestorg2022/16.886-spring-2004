@@ -7,6 +7,7 @@ description: 'Document related to the final written report, Brachet et al. "Arch
   Robinson, Olivier Toupet, and Brian Wong. Used with permission.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-886-air-transportation-systems-architecting-spring-2004/7b57eaa44aba9806397581bf93e48ade_apendix1prntabl2_prnt.pdf
 file_type: application/pdf
+parent_uid: 6bc23302-aab9-9576-1a7b-7a3b3f5335ee
 resourcetype: Document
 title: apendix1prntabl2_prnt.pdf
 uid: 7b57eaa4-4aba-9806-3975-81bf93e48ade

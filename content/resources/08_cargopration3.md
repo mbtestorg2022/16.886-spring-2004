@@ -3,6 +3,7 @@ content_type: resource
 description: Guest lecture presentation courtesy of Al Haggerty. Used with permission.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-886-air-transportation-systems-architecting-spring-2004/42be39b1ebd28aad070962d944fb2b09_08_cargopration3.pdf
 file_type: application/pdf
+parent_uid: 2c58cdb8-9058-f972-ab1b-c1f056feb427
 resourcetype: Document
 title: 08_cargopration3.pdf
 uid: 42be39b1-ebd2-8aad-0709-62d944fb2b09

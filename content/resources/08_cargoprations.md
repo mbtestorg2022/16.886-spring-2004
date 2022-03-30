@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-886-air-transportation-systems-architecting-spring-2004/432c45da1f245c6196b254c5a0d39ddf_08_cargoprations.pdf
 file_type: application/pdf
+parent_uid: 2c58cdb8-9058-f972-ab1b-c1f056feb427
 resourcetype: Document
 title: 08_cargoprations.pdf
 uid: 432c45da-1f24-5c61-96b2-54c5a0d39ddf
